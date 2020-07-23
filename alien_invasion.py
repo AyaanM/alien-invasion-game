@@ -1,3 +1,5 @@
+## official alien invasions - built by Ayaan Merchant - check out Mr.Merchant on youtube on how to construct this game ##
+
 import pygame
 import random
 import math
@@ -174,6 +176,8 @@ while run:
 
 pygame.quit()
 quit()
+
+## official alien invasions - built by Ayaan Merchant - check out Mr.Merchant on youtube on how to construct this game ##
 
 
 
